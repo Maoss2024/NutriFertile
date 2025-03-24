@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "REPRENDS LE CONTRÔLE DE TA FERTILITÉ",
+    "subtitle": "Ton parcours ne dépend pas uniquement des autres.\nDeviens actrice de ta fertilité avec des actions concrètes.",
+    "cta": "Se connecter pour commencer",
+    "ctaLoggedIn": "Commencer"
+  },
+  "nav": {
+    "search": "Rechercher",
+    "logout": "Déconnexion",
+    "courses": "Quêtes à explorer"
+  },
+  "features": {
+    "emotional": {
+      "title": "Bien-être émotionnel",
+      "description": "Gestion du stress, méditation et techniques de relaxation pour un bon équilibre hormonal"
+    },
+    "pregnancy": {
+      "title": "Préparation à la grossesse",
+      "description": "Conseils nutritionnels et exercices adaptés pour préparer ton corps à la conception et à la grossesse"
+    },
+    "digital": {
+      "title": "Contenus numériques",
+      "description": "Un coin d'inspiration, des idées, des savoirs, des ebooks et bien plus de contenus à venir"
+    }
+  },
+  "courses": {
+    "title": "Coups de cœur du moment",
+    "learnMore": "En savoir plus →",
+    "loginToAccess": "Se connecter pour accéder →",
+    "miscarriage": {
+      "title": "Fausse couche et Anxiété",
+      "description": "Surmonter le deuil d'une fausse couche et les souffrances émotionnelles"
+    },
+    "endocrine": {
+      "title": "Les perturbateurs endocriniens",
+      "description": "Certaines substances peuvent troubler tes hormones, affaiblir ton immunité et mettre en danger l'embryon"
+    },
+    "hormones": {
+      "title": "Hormones et conception",
+      "description": "Nos hormones fonctionnent en parfaite harmonie pour réguler notre corps"
+    }
+  },
+  "auth": {
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "noAccount": "Pas encore de compte ?",
+    "hasAccount": "Déjà un compte ?"
+  },
+  "today": {
+    "continuelearning": "Continuer l'apprentissage",
+    "continue": "Continuer →",
+    "freePrograms": "Programmes gratuits pour vous",
+    "start": "Commencer maintenant →",
+    "membershipTitle": "Abonnement Nutri'Fertile",
+    "membershipDescription": "Accédez à tout notre contenu premium et aux conseils d'experts.",
+    "joinNow": "Rejoindre maintenant"
+  }
+}

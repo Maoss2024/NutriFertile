@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "TAKE CONTROL OF YOUR FERTILITY",
+    "subtitle": "Your journey doesn't solely depend on others.\nBecome an active participant in your fertility with concrete actions.",
+    "cta": "Login to start",
+    "ctaLoggedIn": "Start"
+  },
+  "nav": {
+    "search": "Search",
+    "logout": "Logout",
+    "courses": "Quests to Explore"
+  },
+  "features": {
+    "emotional": {
+      "title": "Emotional Well-being",
+      "description": "Stress management, meditation, and relaxation techniques for optimal hormonal balance"
+    },
+    "pregnancy": {
+      "title": "Pregnancy Preparation",
+      "description": "Nutritional advice and adapted exercises to prepare your body for conception and pregnancy"
+    },
+    "digital": {
+      "title": "Digital Content",
+      "description": "A corner of inspiration, ideas, knowledge, and much more content to come"
+    }
+  },
+  "courses": {
+    "title": "Featured Content",
+    "learnMore": "Learn more →",
+    "loginToAccess": "Login to access →",
+    "miscarriage": {
+      "title": "Miscarriage and Anxiety",
+      "description": "Overcoming the grief of miscarriage and emotional suffering"
+    },
+    "endocrine": {
+      "title": "Endocrine Disruptors",
+      "description": "Some substances can disrupt your hormones, weaken your immunity, and endanger the embryo"
+    },
+    "hormones": {
+      "title": "Hormones and Conception",
+      "description": "Our hormones work in perfect harmony to regulate our body"
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "today": {
+    "continuelearning": "Continue Learning",
+    "continue": "Continue →",
+    "freePrograms": "Free Programs For You",
+    "start": "Start Now →",
+    "membershipTitle": "Nutri'Fertile Membership",
+    "membershipDescription": "Get unlimited access to all our premium content and expert guidance.",
+    "joinNow": "Join Now"
+  }
+}

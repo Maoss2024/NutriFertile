@@ -1,0 +1,109 @@
+@import url('https://fonts.cdnfonts.com/css/cerebri-sans');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-gray-900 antialiased;
+    font-family: 'Cerebri Sans', sans-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-[#7AB80E] text-white px-6 py-2 rounded-full hover:bg-[#689A0D] transition-colors;
+  }
+}
+
+@layer utilities {
+  .animate-slide-up {
+    animation: slide-up 0.5s ease-out;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Hide YouTube elements */
+.ytp-chrome-top,
+.ytp-watermark,
+.ytp-large-play-button,
+.ytp-title-text,
+.ytp-title,
+.ytp-title-channel,
+.ytp-watch-later-button,
+.ytp-chrome-top-buttons,
+.ytp-gradient-top,
+.ytp-gradient-bottom,
+.ytp-chrome-bottom,
+.ytp-chrome-controls,
+.ytp-pause-overlay,
+.ytp-spinner,
+.ytp-cued-thumbnail-overlay,
+.ytp-iv-player-content,
+.ytp-ce-element,
+.ytp-large-play-button-red-bg,
+.ytp-button,
+.ytp-play-button,
+.ytp-embed,
+.ytp-embed-button,
+.ytp-thumbnail-overlay,
+.ytp-thumbnail-overlay-image,
+.ytp-large-play-button.ytp-touch-device,
+.ytp-cued-thumbnail-overlay-image,
+.ytp-thumbnail,
+.ytp-large-play-button-bg,
+.ytp-embed-playlist,
+.ytp-playlist-menu-button,
+.ytp-related-videos-badge,
+.ytp-related-videos-overlay,
+.ytp-related-videos-title,
+.ytp-related-videos-list,
+.ytp-endscreen-content,
+.ytp-endscreen-previous,
+.ytp-endscreen-next {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
+iframe[src*="youtube"] {
+  border: none !important;
+}
+
+.ytp-show-cards-title {
+  display: none !important;
+}
+
+.ytp-menuitem[role="menuitem"] {
+  display: none !important;
+}
+
+.ytp-popup.ytp-settings-menu {
+  display: none !important;
+}
+
+/* Ensure YouTube iframe has transparent background */
+.ytp-cued-thumbnail-overlay-image,
+.ytp-player-content,
+iframe[src*="youtube"] {
+  background: transparent !important;
+}
+
+/* Remove YouTube iframe border */
+iframe[src*="youtube"] {
+  border: none !important;
+  outline: none !important;
+}

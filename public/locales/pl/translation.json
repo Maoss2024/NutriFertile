@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "PRZEJMIJ KONTROLĘ NAD SWOJĄ PŁODNOŚCIĄ",
+    "subtitle": "Twoja podróż nie zależy wyłącznie od innych.\nStań się aktywną uczestniczką swojej płodności poprzez konkretne działania.",
+    "cta": "Zaloguj się, aby rozpocząć",
+    "ctaLoggedIn": "Rozpocznij"
+  },
+  "nav": {
+    "search": "Szukaj",
+    "logout": "Wyloguj",
+    "courses": "Zadania do odkrycia"
+  },
+  "features": {
+    "emotional": {
+      "title": "Dobrostan emocjonalny",
+      "description": "Zarządzanie stresem, medytacja i techniki relaksacyjne dla optymalnej równowagi hormonalnej"
+    },
+    "pregnancy": {
+      "title": "Przygotowanie do ciąży",
+      "description": "Porady żywieniowe i dostosowane ćwiczenia przygotowujące organizm do poczęcia i ciąży"
+    },
+    "digital": {
+      "title": "Treści cyfrowe",
+      "description": "Kącik inspiracji, pomysłów, wiedzy i wiele więcej treści w przyszłości"
+    }
+  },
+  "courses": {
+    "title": "Polecane treści",
+    "learnMore": "Dowiedz się więcej →",
+    "loginToAccess": "Zaloguj się, aby uzyskać dostęp →",
+    "miscarriage": {
+      "title": "Poronienie i Lęk",
+      "description": "Przezwyciężanie żałoby po poronieniu i cierpienia emocjonalnego"
+    },
+    "endocrine": {
+      "title": "Substancje Zaburzające Gospodarkę Hormonalną",
+      "description": "Niektóre substancje mogą zakłócać pracę hormonów, osłabiać odporność i zagrażać embrionowi"
+    },
+    "hormones": {
+      "title": "Hormony i Poczęcie",
+      "description": "Nasze hormony działają w doskonałej harmonii, regulując nasze ciało"
+    }
+  },
+  "auth": {
+    "login": "Zaloguj się",
+    "register": "Zarejestruj się",
+    "email": "Email",
+    "password": "Hasło",
+    "confirmPassword": "Potwierdź hasło",
+    "noAccount": "Nie masz konta?",
+    "hasAccount": "Masz już konto?"
+  },
+  "today": {
+    "continuelearning": "Kontynuuj naukę",
+    "continue": "Kontynuuj →",
+    "freePrograms": "Darmowe programy dla Ciebie",
+    "start": "Rozpocznij teraz →",
+    "membershipTitle": "Członkostwo Nutri'Fertile",
+    "membershipDescription": "Uzyskaj nieograniczony dostęp do wszystkich naszych treści premium i wskazówek ekspertów.",
+    "joinNow": "Dołącz teraz"
+  }
+}
